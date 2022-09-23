@@ -1,10 +1,6 @@
 # first-repo
 
-이 repository의 프로젝트에 대한 설명을 한줄로 작성
 
-Demo: [https://www.google.com/](https://www.google.com)
-
-## Index
 
 - Installation
 - How to start
